@@ -1,0 +1,25 @@
+{
+  "name": "mofron-event-swhclick",
+  "version": "0.0.1",
+  "description": "switch visible click event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-event-swhclick.git"
+  },
+  "dependencies": {
+    "mofron-event-click" : ""
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-event-swhclick/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-event-swhclick#readme"
+}
